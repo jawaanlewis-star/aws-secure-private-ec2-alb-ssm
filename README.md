@@ -26,3 +26,20 @@ Admin → Systems Manager Session Manager → VPC Endpoints → Private EC2
 - Security Groups
 - Network Access Control Lists (NACLs)
 - Identity and Access Management (IAM)
+
+## Screenshots
+
+### Load Balancer Working
+![ALB](screenshots/06-alb-dns-working.png)
+
+### Target Group Healthy
+![TG](screenshots/05-target-group-healthy.png)
+
+### Private Network ACL
+![NACL](screenshots/07-private-nacl-rules.png)
+
+### VPC Endpoints
+![Endpoints](screenshots/08-vpc-endpoints-ssm.png)
+
+### Session Manager Access
+![SSM](screenshots/10-curl-localhost-proof.png)
