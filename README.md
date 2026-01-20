@@ -35,6 +35,9 @@ Admin → Systems Manager Session Manager → VPC Endpoints → Private EC2
 ### Target Group Healthy
 ![TG](screenshots/05-target-healthy.png)
 
+### Private EC2 (no public IP)
+![SSM](screenshots/04-ec2-no-public-ip.png)
+
 ### Private Network ACL
 ![NACL](screenshots/07-private-nacl.png)
 
