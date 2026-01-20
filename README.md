@@ -33,10 +33,10 @@ Admin → Systems Manager Session Manager → VPC Endpoints → Private EC2
 ![ALB](screenshots/06-alb-dns-working.png)
 
 ### Target Group Healthy
-![TG](screenshots/05-target-group-healthy.png)
+![TG](screenshots/05-target-healthy.png)
 
 ### Private Network ACL
-![NACL](screenshots/07-private-nacl-rules.png)
+![NACL](screenshots/07-private-nacl.png)
 
 ### VPC Endpoints
 ![Endpoints](screenshots/08-vpc-endpoints-ssm.png)
